@@ -1,0 +1,16 @@
+- kubectl config get-contexts
+- create Pod
+- create replica
+- create deployment - check resources
+- rollout status
+- kubectl edit
+- kubectl config set-context --namespace
+- kubectl create namespace name
+- service discovery
+- secrets
+- healthchecks
+- volumes
+- jobs
+- labels
+- https://github.com/dockersamples/example-voting-app
+- kubectl apply -f *.yml
